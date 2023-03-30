@@ -1,3 +1,4 @@
-# Projeto Linux - Infraestrutura como codigo
+# Desafio AWS - Infraestrutura como codigo
 
-Repositório para os arquivos de script do primeiro projeto do bootcamp AWS
+Projeto de criação de um script para automatização de toda a infraestrutura de usuários, grupos de usuários, diretórios e permissões no linux.
+
